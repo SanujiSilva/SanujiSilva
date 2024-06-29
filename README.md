@@ -33,8 +33,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanujiSilva&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SanujiSilva&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 </p>  
-<br>
-
 
 <h2> <p align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></p> </h2>
 <br>
