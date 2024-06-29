@@ -39,8 +39,8 @@
 <br>
 <p align="center">
 <a href = 'https://www.linkedin.com/in/sanuji-silva-a15328250'> <img height="50" width="50" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href="https://fb.com/Sanuji Silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://instagram.com/kavee_dineth" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="sanuji_silva" height="50" width="50" /></a>
+<a href="https://fb.com/Sanuji Silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sanuji Silva" height="50" width="50" /></a>
+<a href="https://instagram.com/sanuji_silva" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="sanuji_silva" height="50" width="50" /></a>
 </p>
 
   
