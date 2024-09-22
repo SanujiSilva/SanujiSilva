@@ -27,13 +27,26 @@
 <br>
 
 ---
-<h3><p align="center">My Statistics</p></h3>
+<h3 align="center">My Statistics:</h3>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SanujiSilva&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SanujiSilva&theme=dark&hide_border=false" /> 
+</td>
 
-| ![Sanuji's github stats](https://github-readme-stats.vercel.app/api?username=SanujiSilva&show_icons=true&theme=tokyonight) | ![Sanuji GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanujiSilva&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanujiSilva&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SanujiSilva&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<td width="50%" align="center">
 
-</p>  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SanujiSilva&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <h2> <p align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></p> </h2>
 <br>
